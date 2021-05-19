@@ -98,4 +98,7 @@ button:hover {
   background: black;
   color: rgb(250, 250, 250);
 }
-
+/* ICONS */
+i {
+  font-size: 20px;
+}
