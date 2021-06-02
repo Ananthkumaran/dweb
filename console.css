@@ -91,3 +91,11 @@ i {
 .fas {
   margin-right: 10px;
 }
+.logout-button {
+  width: 100vw;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  margin-top: 10rem;
+}
+
